@@ -12,3 +12,5 @@ fields:
   - type: text
     name: vimeo_id
     label: vimeo id
+pages:
+- exampleSite/data/en/trailer.md
