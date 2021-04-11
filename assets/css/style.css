@@ -419,6 +419,10 @@ a:hover {
   color: #d014b8;
 }
 
+.navbar-brand {
+  font-size: 1.75rem;
+}
+
 .navbar-toggler:focus {
   outline: 0;
 }
