@@ -499,7 +499,7 @@ a:hover {
   color: #fff;
   text-transform: capitalize;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin: 20px 0px 10px 0px;
 }
 
 @media (max-width: 480px) {
@@ -511,7 +511,6 @@ a:hover {
 .hero-area .block p {
   color: #fff;
   font-size: 20px;
-  width: 70%;
   margin: 0 auto;
 }
 
