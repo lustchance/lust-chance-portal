@@ -5,7 +5,8 @@ banner:
   bg_image: images/backgrounds/landing.png
   icon: ''
   title: LUST CHANCE
-  content: film by ELISABETTA CALAMELA\nproduced by ELISABETTA CALAMELA and FRANCESCA
+  content: film by ELISABETTA CALAMELA
+  content2: produced by ELISABETTA CALAMELA and FRANCESCA
     RICCARDI
   button:
     enable: true
