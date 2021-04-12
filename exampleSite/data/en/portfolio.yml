@@ -4,6 +4,12 @@ portfolio:
   title: Pictures
   portfolio_item:
   - name: RSA Carlo Alberto
+    image: images/movie-pictures/LC_RSACarloalberto1.png
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
+  - name: RSA Carlo Alberto
     image: images/movie-pictures/lc_rsa-carlo-alberto.png
     image_webp: ''
     categories:
