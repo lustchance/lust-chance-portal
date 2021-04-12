@@ -605,12 +605,12 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #FFF;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #999;
 }
 
 .call-to-action .btn-main {
