@@ -6,13 +6,15 @@ portfolio:
   - name: RSA Carlo Alberto
     image: images/movie-pictures/lc_rsa-carlo-alberto.png
     image_webp: ''
-    categories: ''
+    categories:
+    - RSA
     content: ''
     link: ''
   - name: Rosalia e Matteo
     image: images/movie-pictures/lc_rosaliaematteo3.png
     image_webp: ''
-    categories: ''
+    categories:
+    - design
     content: ''
     link: ''
   - name: Rosalia e Matteo
