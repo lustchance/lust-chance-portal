@@ -14,28 +14,30 @@ portfolio:
     image: images/movie-pictures/lc_rosaliaematteo3.png
     image_webp: ''
     categories:
-    - design
+    - Rosalia
     content: ''
     link: ''
   - name: Rosalia e Matteo
     image: images/movie-pictures/LC_RosaliaeMatteo.png
     image_webp: ''
     categories:
-    - design
+    - Rosalia
+    - Matteo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Rosalia e Matteo
     image: images/movie-pictures/LC_RosaliaeMatteo2.png
     image_webp: ''
     categories:
-    - development
+    - Rosalia
+    - Matteo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Rosalia e Matteo
     image: images/movie-pictures/lc_rosaliaematteo5.png
     image_webp: ''
     categories:
-    - photography
-    - development
+    - Rosalia
+    - Matteo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
