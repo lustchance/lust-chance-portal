@@ -26,10 +26,6 @@ name = "team"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
@@ -56,10 +52,6 @@ weight = 3
 name = "équipe"
 url = "#team"
 weight = 4
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
 [[Languages.fr.menu.main]]
 name = "blog"
 url = "#blog"
