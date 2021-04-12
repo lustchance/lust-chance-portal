@@ -32,14 +32,6 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Rosalia e Matteo
-    image: images/movie-pictures/lc_rosaliaematteo4.png
-    image_webp: ''
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Rosalia e Matteo
     image: images/movie-pictures/lc_rosaliaematteo5.png
     image_webp: ''
     categories:
