@@ -1,0 +1,24 @@
+---
+citations:
+  citations:
+    - name: Matteo
+      enable: true
+      bg_image: images/movie-pictures/lust-chance_matteo.jpg
+      bg_image_webp: ''
+      title: '"Bla bla bla bla"'
+      content: "(Matteo)"
+      button:
+        enable: true
+        label: Discover characters
+        link: "#portfolio"
+    - name: Rosalia
+      enable: true
+      bg_image: images/movie-pictures/lc_rosalia.png
+      bg_image_webp: ''
+      title: '"El hombre fa el amor hasta cuando pueda, pero la mujer hasta la muerte"'
+      content: "(Rosalia)"
+      button:
+        enable: true
+        label: Discover characters
+        link: "#portfolio"
+title: citations.yml
