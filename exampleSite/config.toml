@@ -14,8 +14,8 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
-url = "#about"
+name = "movie"
+url = "#movie"
 weight = 1
 [[Languages.en.menu.main]]
 name = "services"
