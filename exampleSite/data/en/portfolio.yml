@@ -3,12 +3,6 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: ''
-    image: ''
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: ''
   - name: Rosalia e Matteo
     image: images/movie-pictures/LC_RosaliaeMatteo.png
     image_webp: ''
@@ -16,9 +10,9 @@ portfolio:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: Rosalia e Matteo
+    image: images/movie-pictures/LC_RosaliaeMatteo2.png
+    image_webp: ''
     categories:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
