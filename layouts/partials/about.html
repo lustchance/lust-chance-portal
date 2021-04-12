@@ -1,8 +1,8 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.about.about.enable }}
-{{ with $data.about.about }}
-{{"<!-- Start About Section -->" | safeHTML}}
+{{ if $data.movie.movie.enable }}
+{{ with $data.movie.movie }}
+{{"<!-- Start Movie Section -->" | safeHTML}}
 <section class="bg-one about section" id="about">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -16,24 +16,10 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
-			{{ range .about_item }}
-			{{"<!-- About item -->" | safeHTML}}
-			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
-				<div class="block">
-					<div class="icon-box">
-						{{with .icon}}<i class="{{ . }}"></i>{{ end }}
-					</div>
-					{{"<!-- Express About Yourself -->" | safeHTML}}
-					<div class="content text-center">
-						<h3>{{ .title }}</h3>
-						<p>{{ .content | markdownify }}</p>
-					</div>
-				</div>
-			</div>
-			{{ end }}
+			<p>{{ .content | markdownify }}</p>
 		</div>
 	</div>
 </section>
-{{"<!-- /about -->" | safeHTML}}
+{{"<!-- /movie -->" | safeHTML}}
 {{ end }}
 {{ end }}
