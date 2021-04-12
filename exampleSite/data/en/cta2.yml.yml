@@ -1,13 +1,12 @@
 ---
 cta:
   enable: true
-  bg_image: images/movie-pictures/lc_rosalia.png
+  bg_image: images/movie-pictures/lust-chance_matteo.jpg
   bg_image_webp: ''
-  title: '"El hombre fa el amor hasta cuando pueda, pero la mujer hasta la muerte"'
-  content: "(Rosalia)"
+  title: '"Bla bla bla bla"'
+  content: "(Matteo)"
   button:
     enable: true
     label: Discover characters
     link: "#portfolio"
 title: cta2.yml
-draft: true
