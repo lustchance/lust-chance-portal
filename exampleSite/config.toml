@@ -18,10 +18,6 @@ name = "movie"
 url = "#movie"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
-weight = 2
-[[Languages.en.menu.main]]
 name = "portfolio"
 url = "#portfolio"
 weight = 3
@@ -52,10 +48,6 @@ weight = 2
 name = "sur"
 url = "#about"
 weight = 1
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
 [[Languages.fr.menu.main]]
 name = "portefeuille"
 url = "#portfolio"
