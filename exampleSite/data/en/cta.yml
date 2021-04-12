@@ -8,4 +8,4 @@ cta:
   button:
     enable: true
     label: Discover characters
-    link: "#contact"
+    link: "#portfolio"
