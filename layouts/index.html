@@ -12,7 +12,7 @@
 
 {{ partial "portfolio.html" . }}
 
-{{ partial "citations.html" . "xxx" }}
+{{ partial "citations.html" (dict "context" . "citation" "xxx") }}
 
 {{ partial "team.html" . }}
 
