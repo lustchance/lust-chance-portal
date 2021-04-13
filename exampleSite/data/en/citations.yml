@@ -2,6 +2,7 @@
 citations:
   enable: true
   title: Citations
+
   citations:
     - name: Matteo
       enable: true
