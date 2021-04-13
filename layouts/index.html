@@ -8,11 +8,11 @@
 
 {{ partial "movie.html" . }}
 
-{{ partial "cta.html" . }}
+{{ partial "citations.html" (dict "context" . "citation" 0) }}
 
 {{ partial "portfolio.html" . }}
 
-{{ partial "citations.html" (dict "context" . "citation" 0) }}
+{{ partial "citations.html" (dict "context" . "citation" 1) }}
 
 {{ partial "team.html" . }}
 
