@@ -2,9 +2,9 @@
 {{ $target_citation_index := .citation }}
 
 {{ if $data.citations.citations.enable }}
-{{"<!-- Start Call To Action -->" | safeHTML}}
-
+{{"<!-- Start Citations -->" | safeHTML}}
 {{ range $citation_index, $citation := $data.citations.citations }}
+   {{ $target_citation_index }} - {{ $citation_index }}
    {{ if eq $citation_index $target_citation_index }}
      <section id="citations" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
      	<!-- this image is for trigger this section fallback background image -->
@@ -25,5 +25,5 @@
      </section>
    {{ end }}
 {{ end }}
-{{"<!-- Start Services Section -->" | safeHTML}}
+{{"<!-- /citations -->" | safeHTML}}
 {{ end }}
