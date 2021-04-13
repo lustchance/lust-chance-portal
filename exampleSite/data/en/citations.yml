@@ -1,7 +1,7 @@
 ---
+citations:
 title: citations.yml
 enable: true
-citations:
   citations:
     - name: Matteo
       enable: true
