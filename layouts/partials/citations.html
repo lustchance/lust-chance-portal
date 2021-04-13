@@ -2,7 +2,7 @@
 {{ $citation_index := .citation }}
 
 {{ if $data.citations.citations.enable }}
-{{ $x := $data.citations.citations }}
+{{ $x := $data.citations }}
 {{"<!-- Start Call To Action -->" | safeHTML}}
 <section id="citations" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
 	{{ $x }}
