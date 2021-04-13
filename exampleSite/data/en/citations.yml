@@ -1,4 +1,6 @@
 ---
+title: citations.yml
+enable: true
 citations:
   citations:
     - name: Matteo
@@ -21,4 +23,3 @@ citations:
         enable: true
         label: Discover characters
         link: "#portfolio"
-title: citations.yml
