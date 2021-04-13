@@ -1,4 +1,4 @@
-{{ $x := site }}
+{{ $x := site.Data.en }}
 {{ $data := index site.Data site.Language.Lang }}
 
 {{ if $data.citations.citations.enable}}
