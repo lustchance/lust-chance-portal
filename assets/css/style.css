@@ -573,7 +573,7 @@ a:hover {
 
 .credits .container .row {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .credits .container .row > img {
