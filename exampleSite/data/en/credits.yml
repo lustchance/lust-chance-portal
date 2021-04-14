@@ -1,0 +1,16 @@
+############################## Credits #############################
+credits:
+  enable: true
+  title: Credits
+
+  credits:
+    - name: Regione Piemonte
+      bg_image: images/movie-pictures/lc_rosalia.png
+    - name: Film Commission Torino Piemonte
+      bg_image: images/movie-pictures/lust-chance_matteo.jpg
+    - name: MiBACT
+      bg_image: images/movie-pictures/lust-chance_matteo.jpg
+    - name: Per chi crea
+      bg_image: images/movie-pictures/lust-chance_matteo.jpg
+    - name: SIAE
+      bg_image: images/movie-pictures/lust-chance_matteo.jpg
