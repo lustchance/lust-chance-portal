@@ -241,15 +241,18 @@ a:hover {
   padding: 100px 0;
 }
 
+@media (max-width: 768px) {
+  .section {
+    padding: 80px 0;
+  }
+}
+
 @media (max-width: 480px) {
   .section {
     padding: 50px 0;
   }
-}
-
-@media (max-width: 768px) {
-  .section {
-    padding: 80px 0;
+  .section.trailer {
+    padding: 20px 0;
   }
 }
 
@@ -586,6 +589,14 @@ a:hover {
 ==================================================================*/
 .movie {
   font-size: 18px;
+}
+
+/*=================================================================
+  Trailer section
+==================================================================*/
+.trailer iframe {
+  width: 100vw;
+  height: 60vh;
 }
 
 /*=================================================================
