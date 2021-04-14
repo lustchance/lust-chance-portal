@@ -627,21 +627,21 @@ a:hover {
 /*=================================================================
  Call To Action 1
 ==================================================================*/
-.call-to-action {
+.citations {
   background-attachment: fixed;
 }
 
-.call-to-action h2 {
+.citations h2 {
   font-weight: 700;
   color: #FFF;
 }
 
-.call-to-action p {
+.citations p {
   font-size: 16px;
   color: #d0d0d0;
 }
 
-.call-to-action .btn-main {
+.citations .btn-main {
   margin-top: 20px;
 }
 
