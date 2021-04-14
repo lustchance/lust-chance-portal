@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Elisabetta Calamela
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: ''
+    image: https://media-exp1.licdn.com/dms/image/C5603AQFM30iLZ8ZW0g/profile-displayphoto-shrink_200_200/0/1516897431866?e=1623888000&v=beta&t=YLq010AW3Zw3dwouentfGv5qwq7mJbcPTzIqRK9bBPE
     designation: Director and producer
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
