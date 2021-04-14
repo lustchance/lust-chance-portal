@@ -567,6 +567,10 @@ a:hover {
 /*=================================================================
   Credits section
 ==================================================================*/
+.credits {
+  background: #FFF;
+}
+
 .credits .container .row {
   display: flex;
   justify-content: space-between;
