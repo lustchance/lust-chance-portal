@@ -17,13 +17,13 @@
   translation: Movie
 - id: services
   translation: Service
-- id: portfolio
-  translation: Portfolio
+- id: photography
+  translation: Photography
 - id: team
   translation: Team
 - id: pricing
   translation: Pricing
-- id: blog
-  translation: Blog
+- id: news
+  translation: News
 - id: contact
   translation: Contact
