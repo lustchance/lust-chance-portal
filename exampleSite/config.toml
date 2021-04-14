@@ -18,8 +18,8 @@ name = "movie"
 url = "#movie"
 weight = 1
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "photography"
+url = "#photography"
 weight = 3
 [[Languages.en.menu.main]]
 name = "team"
