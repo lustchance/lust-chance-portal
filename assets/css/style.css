@@ -478,6 +478,7 @@ a:hover {
 .hero-area .block {
   text-align: center;
   z-index: 99;
+  padding: 0px 10px;
 }
 
 .hero-area .block .video-button {
