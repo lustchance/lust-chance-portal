@@ -53,8 +53,8 @@ name = "team"
 url = "#team"
 weight = 4
 [[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
+name = "news"
+url = "#news"
 weight = 6
 [[Languages.fr.menu.main]]
 name = "contatti"
