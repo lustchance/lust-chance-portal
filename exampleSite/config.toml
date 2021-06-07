@@ -41,9 +41,9 @@ languageCode = "it-it"
 languageName = "It"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "about"
-url = "#about"
-weight = 1
+name = "film"
+url = "#movie"
+weight = "1"
 [[Languages.fr.menu.main]]
 name = "fotografia"
 url = "#portfolio"
