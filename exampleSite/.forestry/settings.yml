@@ -27,8 +27,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
+  path: exampleSite/content/italian/blog
+  label: Post (it)
   create: documents
   match: "**/*"
   templates:
