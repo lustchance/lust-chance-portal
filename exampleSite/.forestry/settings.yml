@@ -5,6 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Data
+- type: directory
+  path: exampleSite/data
+  label: Homepage
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/i18n
+  label: i18n
+  create: documents
+  match: "**/*"
+- type: heading
   label: Blog Post
 - type: directory
   path: exampleSite/content/english/blog
@@ -21,34 +33,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Author
-- type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: heading
-  label: Data
-- type: directory
-  path: exampleSite/data
-  label: Homepage
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
-  label: i18n
-  create: documents
-  match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
