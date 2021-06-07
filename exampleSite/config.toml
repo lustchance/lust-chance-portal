@@ -41,7 +41,7 @@ languageCode = "it-it"
 languageName = "It"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "about"
 url = "#about"
 weight = 1
 [[Languages.fr.menu.main]]
@@ -49,7 +49,7 @@ name = "portefeuille"
 url = "#portfolio"
 weight = 3
 [[Languages.fr.menu.main]]
-name = "équipe"
+name = "team"
 url = "#team"
 weight = 4
 [[Languages.fr.menu.main]]
@@ -57,7 +57,7 @@ name = "blog"
 url = "#blog"
 weight = 6
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "contatti"
 url = "#contact"
 weight = 7
 [params]
