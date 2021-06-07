@@ -4,7 +4,7 @@ credits:
   title: Credits
   credits:
   - name: Regione Piemonte
-    logo: images/credits/regione-piemonte.svg
+    logo: "/images/credits/regione-piemonte.svg"
   - name: Film Commission Torino Piemonte
     logo: images/credits/film-commission-torino-piemonte.svg
   - name: MiBACT
