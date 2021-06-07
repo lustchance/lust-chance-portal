@@ -1,6 +1,6 @@
 ---
 testimonial:
-  enable: true
+  enable: false
   bg_image: images/movie-pictures/lust-chance_ospiti_rsa3.jpg
   bg_image_webp: ''
   testimonial_item:
