@@ -1,0 +1,14 @@
+---
+banner:
+  enable: true
+  bg_image_webp: ''
+  bg_image: images/backgrounds/landing.png
+  icon: ''
+  title: LUST CHANCE
+  content: film di ELISABETTA CALAMELA
+  content2: scritto da ELISABETTA CALAMELA e FRANCESCA RICCARDI
+  content3: prodotto da START
+  button:
+    enable: true
+    label: Scopri LUST CHANCE
+    link: "#trailer"
