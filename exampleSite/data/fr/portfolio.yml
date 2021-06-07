@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Fotografie
+  title: Fotografia
   portfolio_item:
   - name: RSA Carlo Alberto
     image: images/movie-pictures/lc_rsacarloalberto1.png
