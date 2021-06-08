@@ -9,10 +9,6 @@ contact:
     info: Via Giusti 28 – 20154 Milano
   - icon: ti-home
     info: 'Start S.r.l.: +39 02 34537698'
-  - icon: ti-mobile
-    info: 'Riccardo Annoni: +39 3356472165'
-  - icon: ti-mobile
-    info: 'Francesca Riccardi: +39 3282070377'
   contact_form:
     enable: true
     form_action: "#"
