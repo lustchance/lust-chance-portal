@@ -1,6 +1,6 @@
 ---
 - id: blogTitle
-  translation: Dernier message
+  translation: News
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
