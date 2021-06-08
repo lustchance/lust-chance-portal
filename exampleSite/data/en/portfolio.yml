@@ -3,20 +3,6 @@ portfolio:
   enable: true
   title: Pictures
   portfolio_item:
-  - name: RSA Carlo Alberto
-    image: images/movie-pictures/lc_rsacarloalberto1.png
-    image_webp: ''
-    categories:
-    - RSA
-    content: ''
-    link: ''
-  - name: RSA Carlo Alberto
-    image: images/movie-pictures/lc_rsa-carlo-alberto.png
-    image_webp: ''
-    categories:
-    - RSA
-    content: ''
-    link: ''
   - name: Rosalia e Matteo
     image: images/movie-pictures/lc_rosaliaematteo3.png
     image_webp: ''
@@ -29,7 +15,6 @@ portfolio:
     image_webp: ''
     categories:
     - Rosalia
-    - Matteo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Rosalia e Matteo
@@ -37,7 +22,6 @@ portfolio:
     image_webp: ''
     categories:
     - Rosalia
-    - Matteo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Rosalia e Matteo
@@ -45,6 +29,5 @@ portfolio:
     image_webp: ''
     categories:
     - Rosalia
-    - Matteo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
