@@ -2,7 +2,7 @@
 contact:
   enable: true
   title: Contattaci
-  subtitle: Contatti
+  subtitle: Start S.r.l.
   content: ''
   contact_list:
   - icon: ti-location-pin
