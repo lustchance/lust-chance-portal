@@ -12,7 +12,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "2"
 [[Languages.en.menu.main]]
 name = "movie"
 url = "#movie"
@@ -39,7 +39,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Accueil"
 languageCode = "it-it"
 languageName = "It"
-weight = 2
+weight = "1"
 [[Languages.it.menu.main]]
 name = "film"
 url = "#movie"
