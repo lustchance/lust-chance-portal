@@ -2,13 +2,13 @@
 contact:
   enable: true
   title: Contact Us
-  subtitle: Contact Details
+  subtitle: Start S.r.l.
   content: ''
   contact_list:
   - icon: ti-location-pin
     info: Via Giusti 28 – 20154 Milano
   - icon: ti-home
-    info: 'Start S.r.l.: +39 02 34537698'
+    info: "+39 02 34537698"
   - icon: ti-link
     info: http://www.start.mi.it/
   contact_form:
