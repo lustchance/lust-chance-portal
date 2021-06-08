@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Team
   team_member:
   - name: Elisabetta Calamela
     image_webp: ''
