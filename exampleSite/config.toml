@@ -105,10 +105,10 @@ enable = true
 preloader = ""
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/start.mi.it/"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/start_milano"
 [[params.social]]
-icon = "ti-youtube"
-link = "#"
+icon = "ti-vimeo-alt"
+link = "https://vimeo.com/user12585665"
