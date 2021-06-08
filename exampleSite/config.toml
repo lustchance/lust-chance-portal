@@ -1,4 +1,5 @@
 baseURL = "https://lust-chance.netlify.com"
+defaultContentLanguage = "it"
 disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "6"
