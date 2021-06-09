@@ -4,8 +4,7 @@
 {{ with $data.teamcredits.teamcredits }}
 {{"<!-- Start Credits Section -->" | safeHTML}}
 <section id="teamcredits" class="teamcredits section">
-	<div class="container">
-	  {{ range .teamcredits }}
+    <div class="container">
       <div class="row">
         Regia: {{.direction}}
       </div>
@@ -41,8 +40,7 @@
       <div class="row">
         Anno: {{.production_year}}
       </div>
-		{{ end }}
-	</div>
+    </div>
 </section>
 {{"<!-- /Credits Section -->" | safeHTML}}
 {{ end }}
