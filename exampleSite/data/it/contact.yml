@@ -3,10 +3,10 @@ contact:
   enable: true
   title: Contattaci
   subtitle: Start S.r.l.
-  content: Siamo una società di produzione e postproduzione creata nel 1998. Ci contraddistingue
-    una particolare attenzione alle nuove tecnologie, alla qualità e al trattamento
-    delle immagini, una filosofia che si rispecchia in tutti i nostri lavori che spaziano
-    dal cinema al web, dalla televisione al multimedia.
+  content: Start è una società fondata nel 1998 da Riccardo Annoni che si occupa di
+    produzione e post produzione cinematografica. Negli anni si è specializzata nella
+    realizzazione di documentari e film d’autore, spesso in co-produzione con altre
+    società italiane ed europee.
   contact_list:
   - icon: ti-location-pin
     info: Via Giusti 28 – 20154 Milano
