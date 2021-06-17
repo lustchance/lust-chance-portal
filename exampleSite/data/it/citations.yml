@@ -11,7 +11,7 @@ citations:
     content: "(Rosalia)"
     button:
       enable: true
-      label: Discover characters
+      label: Scopri i personaggi
       link: "#portfolio"
   - name: Giovanna
     enable: true
@@ -23,5 +23,5 @@ citations:
     content: "(Giovanna)"
     button:
       enable: true
-      label: Discover characters
+      label: Scopri i personaggi
       link: "#portfolio"
