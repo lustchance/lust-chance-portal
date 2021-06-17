@@ -3,18 +3,17 @@ portfolio:
   enable: true
   title: Fotografia
   portfolio_item:
-  - name: Rosalia e Matteo
-    image: images/movie-pictures/lc_rosaliaematteo3.png
+  - name: Giovanna
+    image: images/01_1.3.1.jpg
     image_webp: ''
     categories:
-    - Rosalia
+    - Giovanna
     content: ''
     link: ''
-  - name: Rosalia e Matteo
-    image: images/movie-pictures/LC_RosaliaeMatteo.png
+  - name: Giovanna
+    image: images/03_1.8.1.jpg
     image_webp: ''
-    categories:
-    - Rosalia
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Rosalia e Matteo
