@@ -36,3 +36,24 @@ portfolio:
     content: ''
     link: ''
     name: Rosalia e Matteo
+  - image: images/08_1.32.1.jpg
+    image_webp: ''
+    categories:
+    - Rosalia
+    content: ''
+    link: ''
+    name: Matteo
+  - name: Giovanna
+    image: images/11_1.79.1.jpg
+    image_webp: ''
+    categories:
+    - Giovanna
+    content: ''
+    link: ''
+  - name: Rosalia
+    image: images/12_1.86.1.jpg
+    image_webp: ''
+    categories:
+    - Rosalia
+    content: ''
+    link: ''
