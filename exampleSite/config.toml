@@ -48,11 +48,11 @@ weight = "1"
 [[Languages.it.menu.main]]
 name = "team"
 url = "#team"
-weight = 4
+weight = "3"
 [[Languages.it.menu.main]]
 name = "fotografia"
 url = "#portfolio"
-weight = 3
+weight = "4"
 [[Languages.it.menu.main]]
 name = "news"
 url = "#news"
