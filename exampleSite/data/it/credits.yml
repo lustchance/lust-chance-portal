@@ -9,11 +9,12 @@ credits:
     logo: "/images/credits/siae.svg"
   - name: Per chi crea
     logo: "/images/credits/perchicrea.png"
-  credits:
+  piemontecredits:
   - name: Regione Piemonte
     logo: "/images/credits/regione-piemonte.svg"
   - name: Film Commission Torino Piemonte
     logo: "/images/credits/film-commission-torino-piemonte.svg"
+  credits:
   - name: Start
     logo: "/images/credits/start.svg"
   - name: Ordine Psicologi Lombardia
