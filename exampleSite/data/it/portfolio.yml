@@ -57,3 +57,17 @@ portfolio:
     - Rosalia
     content: ''
     link: ''
+  - image: images/13_1.102.1.jpg
+    image_webp: ''
+    categories:
+    - Giovanna
+    content: ''
+    link: ''
+    name: Giovanna
+  - name: Giovanna
+    image: images/14_1.103.1.jpg
+    image_webp: ''
+    categories:
+    - Giovanna
+    content: ''
+    link: ''
