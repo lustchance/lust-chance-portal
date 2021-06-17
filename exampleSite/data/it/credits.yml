@@ -2,7 +2,7 @@
 credits:
   enable: true
   title: Credits
-  per-chi-crea-credits:
+  perchicreacredits:
   - name: MiBACT
     logo: "/images/credits/mibact.svg"
   - name: SIAE
