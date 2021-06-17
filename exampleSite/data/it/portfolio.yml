@@ -16,17 +16,23 @@ portfolio:
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Rosalia e Matteo
-    image: images/movie-pictures/LC_RosaliaeMatteo2.png
+  - name: Rosalia
+    image: images/04_1.10.1.jpg
     image_webp: ''
     categories:
-    - Rosalia
+    - Giovanna
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Rosalia e Matteo
-    image: images/movie-pictures/lc_rosaliaematteo5.png
+  - name: Rosalia
+    image: images/05_1.19.1.jpg
     image_webp: ''
     categories:
     - Rosalia
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
+  - image: images/06_1.30.1.jpg
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
+    name: Rosalia e Matteo
