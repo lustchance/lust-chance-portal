@@ -13,7 +13,8 @@ portfolio:
   - name: Giovanna
     image: images/03_1.8.1.jpg
     image_webp: ''
-    categories: []
+    categories:
+    - Giovanna
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Rosalia
