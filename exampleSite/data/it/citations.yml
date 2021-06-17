@@ -1,26 +1,27 @@
-############################## Citations #############################
+---
 citations:
   enable: true
   title: Citations
-
   citations:
-    - name: Rosalia
+  - name: Rosalia
+    enable: true
+    bg_image: images/movie-pictures/lc_rosalia.png
+    bg_image_webp: ''
+    title: '"El hombre fa el amor hasta cuando pueda, pero la mujer hasta la muerte"'
+    content: "(Rosalia)"
+    button:
       enable: true
-      bg_image: images/movie-pictures/lc_rosalia.png
-      bg_image_webp: ''
-      title: '"El hombre fa el amor hasta cuando pueda, pero la mujer hasta la muerte"'
-      content: "(Rosalia)"
-      button:
-        enable: true
-        label: Discover characters
-        link: "#portfolio"
-    - name: Matteo
+      label: Discover characters
+      link: "#portfolio"
+  - name: Giovanna
+    enable: true
+    bg_image: images/movie-pictures/lust-chance_matteo.jpg
+    bg_image_webp: ''
+    title: '"Io tutto sommato sono una donna forte e determinata. Riesco a trovare
+      delle gioie nella vita che non siano quelle di stare con un uomo, magari più
+      vecchio di me."'
+    content: "(Matteo)"
+    button:
       enable: true
-      bg_image: images/movie-pictures/lust-chance_matteo.jpg
-      bg_image_webp: ''
-      title: '"Bla bla bla bla"'
-      content: "(Matteo)"
-      button:
-        enable: true
-        label: Discover characters
-        link: "#portfolio"
+      label: Discover characters
+      link: "#portfolio"
