@@ -11,7 +11,7 @@ portfolio:
     content: ''
     link: ''
   - name: Giovanna
-    image: images/03_1.8.1.jpg
+    image: "/images/03_1.8.1.jpg"
     image_webp: ''
     categories:
     - Giovanna
