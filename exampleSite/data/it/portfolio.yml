@@ -46,7 +46,7 @@ portfolio:
     link: ''
     name: Matteo
   - name: Giovanna
-    image: images/giovanna3.jpg
+    image: images/giovanna4.jpg
     image_webp: ''
     categories:
     - Giovanna
@@ -59,7 +59,7 @@ portfolio:
     - Rosalia
     content: ''
     link: ''
-  - image: images/13_1.102.1.jpg
+  - image: images/giovanna5.jpg
     image_webp: ''
     categories:
     - Giovanna
@@ -67,21 +67,21 @@ portfolio:
     link: ''
     name: Giovanna
   - name: Giovanna
-    image: images/14_1.103.1.jpg
+    image: images/giovanna6.jpg
     image_webp: ''
     categories:
     - Giovanna
     content: ''
     link: ''
   - name: Giovanna
-    image: images/15_1.104.1.jpg
+    image: images/giovanna7.jpg
     image_webp: ''
     categories:
     - Giovanna
     content: ''
     link: ''
   - name: Giovanna
-    image: images/16_1.128.1.jpg
+    image: images/giovanna8.jpg
     image_webp: ''
     categories:
     - Giovanna
