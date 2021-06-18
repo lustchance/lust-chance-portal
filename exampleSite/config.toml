@@ -37,7 +37,7 @@ weight = 7
 [Languages.it]
 contentDir = "content/italian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
+home = "Home"
 languageCode = "it-it"
 languageName = "It"
 weight = "1"
@@ -54,10 +54,6 @@ name = "fotografia"
 url = "#portfolio"
 weight = "4"
 [[Languages.it.menu.main]]
-name = "news"
-url = "#news"
-weight = 6
-[[Languages.it.menu.main]]
 name = "contatti"
 url = "#contact"
 weight = 7
@@ -66,7 +62,7 @@ author = "Themefisher"
 description = "LUST CHANCE"
 google_analytics_id = ""
 logo = ""
-post_share = true
+post_share = false
 [params.cookies]
 enable = false
 expire_days = 2
