@@ -4,7 +4,7 @@
 {{ if $data.citations.citations.enable }}
 {{"<!-- Start Citations -->" | safeHTML}}
 {{ with index $data.citations.citations.citations $target_citation_index }}
-     <section id="citations" class="citations section-sm bg-1" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+     <section id="citations" class="citations section-sm bg-1" style='background-image: url("{{ .bg_image_webp | absURL }}"); background-position-x: center;'>
      	<!-- this image is for trigger this section fallback background image -->
      	<img src="{{ .bg_image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'">
      	<div class="container">
