@@ -96,7 +96,7 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/lazy-load/lozad.min.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "images/backgrounds/landing.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/start.mi.it/"
