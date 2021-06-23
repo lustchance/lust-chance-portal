@@ -1,4 +1,4 @@
-baseURL = "https://lust-chance.netlify.com"
+baseURL = "https://lustchance.netlify.com"
 defaultContentLanguage = "it"
 disableLanguages = ["en"]
 disqusShortname = ""
