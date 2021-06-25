@@ -586,6 +586,7 @@ a:hover {
 
 .credits .container .row > img {
   max-width: 200px;
+  max-height: 200px;
 }
 
 /*=================================================================
