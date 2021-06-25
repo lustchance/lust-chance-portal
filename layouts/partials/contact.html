@@ -22,7 +22,7 @@
 				<p> {{ .content | markdownify }} </p>
 
 				{{ if .contact_form.enable }}
-				<div class="contact-details col-lg-6" style="margin-top: 45px; padding-right: 15px; padding-left: 15px;">
+				<div class="contact-details col-lg-6" style="margin-top: 45px;">
 					{{ range .contact_list }}
 					<div class="con-info clearfix">
 						<i class="{{ .icon }}"></i>
@@ -58,7 +58,7 @@
 			</div>
 			{{ end }}
 			{{ else }}
-			<div class="contact-details">
+			<div class="contact-details col-lg-6">
 				{{ range .contact_list }}
 				<div class="con-info clearfix">
 					<i class="{{ .icon }}"></i>
