@@ -1,5 +1,5 @@
-############################# Trailer ###################################
+---
 trailer:
-  enable : true
-  title : Trailer
-  vimeo_id : "146022717"
+  enable: false
+  title: Trailer
+  vimeo_id: "146022717"
