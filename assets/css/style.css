@@ -21,7 +21,7 @@ body {
 
 @font-face {
   font-family: 'Sensations and Qualities';
-  src: url('Sensations_and_Qualities.ttf')  format('truetype');
+  src: url('../fonts/Sensations_and_Qualities.ttf')  format('truetype');
 }
 
 h1,
