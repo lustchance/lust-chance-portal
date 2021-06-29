@@ -19,6 +19,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+@font-face {
+  font-family: 'Sensations and Qualities';
+  src: url('Sensations_and_Qualities.ttf')  format('truetype');
+}
+
 h1,
 h2,
 h3,
@@ -504,16 +509,14 @@ a:hover {
 }
 
 .hero-area .block h1 {
-  font-size: 90px;
+  font-size: 160px;
   color: #fff;
-  text-transform: capitalize;
-  font-weight: 700;
   margin: 20px 0px 10px 0px;
 }
 
 @media (max-width: 480px) {
   .hero-area .block h1 {
-    font-size: 60px;
+    font-size: 100px;
   }
 }
 
