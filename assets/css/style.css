@@ -21,7 +21,7 @@ body {
 
 @font-face {
   font-family: 'Sensations and Qualities';
-  src: url('../fonts/Sensations_and_Qualities.ttf')  format('truetype');
+  src: url('https://github.com/lustchance/lust-chance-portal/blob/master/assets/fonts/Sensations_and_Qualities.ttf?raw=true')  format('truetype');
 }
 
 h1,
