@@ -299,6 +299,7 @@ a:hover {
   color: #FFF;
   font-size: 80px;
   font-weight: 500;
+  font-display: block;
   font-family: "Sensations and Qualities", "Josefin Sans";
 }
 .preloader p {
