@@ -48,12 +48,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #d014b8;
+  background: #f9af03;
 }
 
 ::selection {
   color: #fff;
-  background: #d014b8;
+  background: #f9af03;
 }
 
 hr {
@@ -115,7 +115,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #d014b8;
+  background-color: #f9af03;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -137,7 +137,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #d014b8;
+  background-color: #f9af03;
 }
 
 .color {
@@ -215,11 +215,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #d014b8;
+  color: #f9af03;
 }
 
 .btn-main {
-  background: #d014b8;
+  background: #f9af03;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -311,7 +311,7 @@ a:hover {
 }
 @keyframes pulse-text {
   0% { color: #FFF; }
-  55% { color: #D014B8; }
+  55% { color: #f9af03; }
   110% { color: #FFF; }
 }
 
@@ -327,7 +327,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #d014b8;
+  color: #f9af03;
 }
 
 .title p {
@@ -372,7 +372,7 @@ a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #d014b8;
+  color: #f9af03;
 }
 
 .slick-slide {
@@ -440,7 +440,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #d014b8;
+  color: #f9af03;
 }
 
 .navbar-brand {
@@ -490,7 +490,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #d014b8;
+  color: #f9af03;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -637,7 +637,7 @@ a:hover {
 
 .about-2 .content-block .media i {
   font-size: 30px;
-  color: #d014b8;
+  color: #f9af03;
 }
 
 .about-2 .content-block .media h4 {
@@ -700,12 +700,12 @@ a:hover {
 
 .form-meghna input:hover,
 .form-meghna textarea:hover {
-  border-color: #d014b8;
+  border-color: #f9af03;
 }
 
 #contact-submit {
   border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #d014b8;
+  background: #f9af03;
   padding: 12px 0;
   width: 100%;
   margin: 0;
@@ -802,7 +802,7 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #d014b8;
+  color: #f9af03;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -813,7 +813,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #d014b8;
+  color: #f9af03;
   font-size: 30px;
 }
 
@@ -863,7 +863,7 @@ a:hover {
 }
 
 .portfolio-filter .btn.active {
-  border-color: #d014b8;
+  border-color: #f9af03;
 }
 
 .portfolio-block {
@@ -922,7 +922,7 @@ a:hover {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #d014b8;
+  background: #f9af03;
   width: 50px;
   height: 50px;
   color: #fff;
@@ -968,13 +968,13 @@ a:hover {
 
 .service-2 .service-item:hover i {
   background: #fff;
-  color: #d014b8;
+  color: #f9af03;
 }
 
 .service-2 .service-item i {
   font-size: 30px;
   display: inline-block;
-  background: #d014b8 none repeat scroll 0 0;
+  background: #f9af03 none repeat scroll 0 0;
   border-radius: 30px;
   box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
   color: #fff;
@@ -1007,7 +1007,7 @@ a:hover {
 }
 
 .skill-bar .progress .progress-bar {
-  background: #d014b8;
+  background: #f9af03;
 }
 
 /*=================================================================
@@ -1086,7 +1086,7 @@ a:hover {
 
 .member-photo .mask ul li a:hover {
   background-color: #fff;
-  color: #d014b8;
+  color: #f9af03;
   border: 1px solid transparent;
 }
 
@@ -1167,7 +1167,7 @@ a:hover {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #d014b8;
+  background-color: #f9af03;
   border: 2px solid transparent;
 }
 
@@ -1261,7 +1261,7 @@ a:hover {
 }
 
 .post-meta a {
-  color: #d014b8;
+  color: #f9af03;
 }
 
 .post-meta>span {
@@ -1322,7 +1322,7 @@ a:hover {
 }
 
 .next-prev a:hover {
-  color: #d014b8;
+  color: #f9af03;
 }
 
 .next-prev .prev-post i {
@@ -1345,7 +1345,7 @@ a:hover {
 }
 
 .social-profile ul li a i:hover {
-  color: #d014b8;
+  color: #f9af03;
 }
 
 .comments-section {
@@ -1393,7 +1393,7 @@ a:hover {
 }
 
 .comment-wrap .media .media-heading a {
-  color: #d014b8;
+  color: #f9af03;
   font-size: 13px;
 }
 
@@ -1420,7 +1420,7 @@ a:hover {
 .comment-reply-form input:focus,
 .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #d014b8;
+  border: 1px solid #f9af03;
 }
 
 .comment-reply-form textarea,
@@ -1522,7 +1522,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #d014b8;
+  background: #f9af03;
 }
 
 .social-icon ul li a:hover i {
@@ -1565,8 +1565,8 @@ input#e-mail,
 }
 
 #scrollUp:hover {
-  background-color: #d014b8;
-  border: 1px solid #d014b8;
+  background-color: #f9af03;
+  border: 1px solid #f9af03;
 }
 
 /*=================================================================
@@ -1992,7 +1992,7 @@ blockquote {
 }
 
 .form-control-meghna .form-control:focus {
-  border-color: #d014b8;
+  border-color: #f9af03;
   box-shadow: 0 0 0 0.2rem rgba(0, 174, 255, 0.432);
 }
 
@@ -2246,8 +2246,8 @@ figcaption {
 }
 
 .pagination .page-item .page-link:hover {
-  background: #d014b8;
-  border-color: #d014b8;
+  background: #f9af03;
+  border-color: #f9af03;
   color: #fff
 }
 
@@ -2257,9 +2257,9 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #d014b8;
+  background: #f9af03;
   color: #fff;
-  border-color: #d014b8;
+  border-color: #f9af03;
 }
 
 #select-language {
