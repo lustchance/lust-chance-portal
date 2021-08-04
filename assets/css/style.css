@@ -301,6 +301,9 @@ a:hover {
   font-weight: 500;
   font-family: "Sensations and Qualities", "Josefin Sans";
 }
+.preloader p {
+    font-family: "Sensations and Qualities", "Josefin Sans" !important;
+}
 
 .pulse-text {
    /* Chrome, Safari, Opera */
