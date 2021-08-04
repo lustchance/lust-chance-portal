@@ -1,5 +1,5 @@
 ---
 trailer:
-  enable: false
+  enable: true
   title: Trailer
   vimeo_id: "570312847"
