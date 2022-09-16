@@ -1,6 +1,6 @@
 ---
 movie:
-  enable: false
+  enable: true
   title: Il Film
   content: |-
     Giovanna vive da molto tempo isolata nella sua grande casa sul Lago di Garda, fedele alle sue abitudini e ai suoi ricordi.
